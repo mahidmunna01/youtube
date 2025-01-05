@@ -10,7 +10,7 @@ body{
   color: white;
   font-size: larger;
 }
-.first{
+header{
   border-bottom: 1px solid #ddd;
   margin: 10px 1%;
 }

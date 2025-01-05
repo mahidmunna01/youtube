@@ -2,10 +2,16 @@
   img{
   animation: img 2s infinite  alternate-reverse;
   width: 20%;
+  border: 2px solid white;
 }
  iframe{
   width: 100%;
   height:100%;
   border: 2px solid;
  }
+
+ footer p,a{
+  font-size: 15px;
+ }
+
 }
